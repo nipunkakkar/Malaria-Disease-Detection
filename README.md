@@ -8,6 +8,7 @@ The problem is to detect wheather a given image of a cell is infected by parasit
 # Dataset
 
 The Dataset is taken from Kaggle https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria. The dataset contains thousands of images of both the categories with malaria and without malaria, thus the model should have a good accuracy.
+The Dataset is quite large thus it cannot be uploaded to Github.
 
 # Technology used
 
@@ -16,6 +17,7 @@ For this problem we will be using Transfer Learning with ImageDataGenerator. Gen
 # Webapp
 
 Please find the link to webapp for this project
+The model saved file is quite large, thus cannot be uploaded to GitHub
 
 # How to use Webapp
 
