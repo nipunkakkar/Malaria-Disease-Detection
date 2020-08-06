@@ -1,5 +1,6 @@
 # Malaria-Disease-Detection
 The Model detects wheather given image is infected by a parasite or not.
+The main file is Malaria_Disease_Detection_TL.ipynb
 
 # Problem Statement
 
