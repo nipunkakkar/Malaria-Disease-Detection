@@ -15,10 +15,9 @@ The Dataset is quite large thus it cannot be uploaded to Github.
 
 For this problem we will be using Transfer Learning with ImageDataGenerator. Generally VGG16 and VGG19 gives the best accuracy, so here we will be using VGG16
 
-# Webapp
+# Webapp Demo
 
-Please find the link to webapp for this project
-The model saved file is quite large, thus cannot be uploaded to GitHub
+Please find the link to webapp for this project https://malaria-disease-detection.herokuapp.com/
 
 # How to use Webapp
 
