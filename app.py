@@ -46,7 +46,7 @@ def upload():
   
   if request.method == 'POST':
     file = request.files['file']
-    file_path = './uploads/'+file.filename
+    file_path = './'+file.filename
     file.save(file_path)
 
     prediction = model_predict(file_path, model)
