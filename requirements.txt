@@ -8,7 +8,6 @@ scipy==1.4.1
 scikit-learn>=0.18
 matplotlib>=1.4.3
 pandas>=0.19
-catboost==0.23.2
 pickleshare==0.7.5
 Jinja2==2.11.1
 joblib==0.14.1
@@ -20,5 +19,5 @@ jupyter-core==4.6.3
 Keras-Preprocessing==1.1.2
 tensorboard==2.2.1
 tensorboard-plugin-wit==1.6.0.post3
-tensorflow==2.2.0
+tensorflow-cpu==2.2.0
 tensorflow-estimator==2.2.0
