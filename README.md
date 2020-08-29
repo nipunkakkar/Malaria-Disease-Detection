@@ -21,10 +21,10 @@ Please find the link to webapp for this project https://malaria-disease-detectio
 
 # How to use Webapp
 
-Click on Upload image
-Download images given in this github page, with names Test1p.png, Test2p.png etc
-Upload these images to webapp
-Check the result
+* Click on Upload image
+* Download images given in this github page, with names Test1p.png, Test2p.png etc
+* Upload these images to webapp
+* Check the result
 
 # Conclusion
 
